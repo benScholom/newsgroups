@@ -11,6 +11,7 @@ Getting Started:
 	d. matplotlib
 	e. nltk
 	f. jupyter
+	g. hyperopt (may require downgrading networkx to version 1.11 to work if you already have a later version)
 
 2. In the command line, go to the directory where the notebook is stored and type "jupyter notebook"
 
